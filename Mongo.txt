@@ -1,0 +1,6 @@
+QUERIES: 
+
+1. Create database: use database_name;
+2. Creating collection (in mongo db collection name is refered to table name) inside database: db.collection_name
+3. To insert value into collection/ table: db.collection_name.insertOne(constratints);
+4. To find/display table data (select * from ...): db.collection_name.find();
